@@ -1,2 +1,2 @@
 # test
-This is gitHub Test project
+This is a gitHub Test project
