@@ -1,2 +1,2 @@
 # test
-This is not a gitHub Test project
+This is a gitHub Test project
